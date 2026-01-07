@@ -35,14 +35,6 @@ Sou graduanda em **Ciência da Computação na UEL** e desenvolvedora em busca d
 
 ---
 
-## 📊 Estatísticas
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lauratamarozzi&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratamarozzi&layout=compact&theme=dracula" />
-</p>
-
----
-
 <p align="center">
   📍 Londrina, PR | 🌍 Inglês Profissional
 </p>
