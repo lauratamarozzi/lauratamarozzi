@@ -10,11 +10,11 @@
 ---
 
 ## 👩‍💻 Sobre Mim
-[cite_start]Sou graduanda em **Ciência da Computação na UEL** [cite: 19, 61] [cite_start]e desenvolvedora em busca de oportunidades para consolidar minhas habilidades[cite: 18]. [cite_start]Tenho um perfil proativo e foco em aplicar conhecimentos científicos no mercado[cite: 42].
+Sou graduanda em **Ciência da Computação na UEL** e desenvolvedora em busca de oportunidades para consolidar minhas habilidades. Tenho um perfil proativo e foco em aplicar conhecimentos científicos no mercado.
 
-* [cite_start]🔬 **Pesquisa:** Bolsista de Iniciação Científica em Bioinformática na UEL[cite: 20, 47].
-* [cite_start]🛡️ **Segurança:** Membro do grupo de pesquisa em Segurança Cibernética - **CyberLab**[cite: 22].
-* [cite_start]🎓 **Educação:** Técnica em Desenvolvimento de Sistemas pelo SENAI[cite: 65].
+* 🔬 **Pesquisa:** Bolsista de Iniciação Científica em Bioinformática na UEL.
+* 🛡️ **Segurança:** Membro do grupo de pesquisa em Segurança Cibernética - **CyberLab**.
+* 🎓 **Educação:** Técnica em Desenvolvimento de Sistemas pelo SENAI.
 
 ---
 
@@ -23,15 +23,15 @@
 ### Linguagens e Frameworks
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
-| **Web** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Dados** | [cite_start]![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) (MySQL, PostgreSQL [cite: 35]) |
+| **Backend** | Java, Python, C |
+| **Frontend** | JavaScript, TypeScript, Angular |
+| **Web** | Next.js, HTML5, CSS3 |
+| **Dados** | SQL (MySQL, PostgreSQL) |
 
 ### Competências Adicionais
-* [cite_start]**Softwares:** Prototipação em Figma[cite: 25].
-* [cite_start]**Metodologias:** Metodologias Ágeis e Documentação[cite: 26, 27].
-* [cite_start]**Conceitos:** Programação Orientada a Objetos e Estrutura de Dados[cite: 37, 38].
+* **Softwares:** Prototipação em Figma.
+* **Metodologias:** Metodologias Ágeis e Documentação.
+* **Conceitos:** Programação Orientada a Objetos e Estrutura de Dados.
 
 ---
 
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  [cite_start]📍 Londrina, PR [cite: 16] | [cite_start]🌍 Inglês Profissional [cite: 11]
+  📍 Londrina, PR | 🌍 Inglês Profissional
 </p>
