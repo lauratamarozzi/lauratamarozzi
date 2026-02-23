@@ -1,11 +1,19 @@
-# Olá, eu sou a Laura Tamarozzi 👋
+# Olá, eu sou a Laura Tamarozzi 👋  
 
-Graduanda em **Ciência da Computação pela UEL**, com foco em desenvolvimento de software e interesse especial em **backend, lógica e arquitetura de sistemas**. Busco oportunidades de estágio ou posições júnior para aplicar minha base técnica, aprender com times experientes e contribuir para soluções de impacto real.
+🎓 Graduanda em **Ciência da Computação pela UEL**  
+📊 Experiência acadêmica e projetos em **Análise de Dados e Business Intelligence**  
+💻 Base sólida em **Desenvolvimento de Software**
+
+Sou estudante com forte formação em lógica, estruturas de dados e programação.  
+Tenho interesse especial em **transformar dados em informações estratégicas**, aliando pensamento analítico à base técnica em desenvolvimento.
+
+Busco oportunidades de estágio nas áreas de **Dados, BI ou Desenvolvimento**, onde eu possa aplicar meus conhecimentos e evoluir em ambientes desafiadores.
 
 ---
 
 ## 📬 Contato & Redes
-<div>
+
+<p align="left">
   <a href="mailto:tamarozzilaura@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -15,20 +23,46 @@ Graduanda em **Ciência da Computação pela UEL**, com foco em desenvolvimento 
   <a href="https://github.com/lauratamarozzi">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
 ## 👩‍💻 Sobre mim
-Atualmente, atuo como **Bolsista de Iniciação Científica** na área de **Bioinformática**, aplicando Python, lógica de programação e análise de dados para resolver problemas reais no contexto científico. Essa experiência fortaleceu meu raciocínio analítico, organização e capacidade de levantar hipóteses e transformar requisitos em soluções práticas.
 
-Também participo do **CyberLab (UEL)**, grupo de pesquisa em **Segurança Cibernética**, onde tenho contato com conceitos de proteção de sistemas e boas práticas de engenharia.
+Atualmente, atuo como **Bolsista de Iniciação Científica em Bioinformática**, desenvolvendo pesquisas aplicadas e explorando soluções computacionais para problemas científicos.
 
-Tenho interesse em ambientes que valorizam aprendizado contínuo, colaboração e desenvolvimento de software bem estruturado.
+Minhas atividades envolvem:
+
+- Tratamento, organização e análise de dados  
+- Aplicação de lógica computacional para extração de padrões  
+- Exploração de abordagens com **Machine Learning**  
+- Documentação técnica e estruturação de resultados  
+
+Também desenvolvi um projeto acadêmico de **Dashboard em Power BI**, utilizando dados públicos do IBGE relacionados à dengue.  
+O projeto envolveu:
+
+- Coleta e tratamento de dados  
+- Modelagem para análise exploratória  
+- Construção de dashboard interativo  
+- Geração de insights a partir da visualização dos dados  
+
+🔗 O projeto está disponível neste GitHub.
+
+Participo ainda do **CyberLab (UEL)**, grupo de pesquisa em Segurança Cibernética, ampliando minha visão sobre proteção de sistemas e boas práticas de engenharia.
 
 ---
 
-## 🛠️ Tecnologias & Conhecimentos
+## 📊 Análise de Dados & BI
+
+- Modelagem e manipulação de dados  
+- SQL (MySQL | PostgreSQL)  
+- Análise exploratória de dados  
+- Visualização de dados com **Power BI**  
+- Interpretação e geração de insights  
+
+---
+
+## 💻 Desenvolvimento
 
 ### Linguagens
 - Java  
@@ -36,25 +70,30 @@ Tenho interesse em ambientes que valorizam aprendizado contínuo, colaboração 
 - JavaScript / TypeScript  
 - C  
 
-### Backend & Dados
-- Lógica de Programação  
+### Fundamentos
 - Programação Orientada a Objetos (POO)  
-- MySQL | PostgreSQL  
 - Estruturas de Dados  
+- Lógica de Programação  
 
-### Frontend & Web
+### Web
 - Angular  
 - Next.js  
-- HTML5 | CSS3  
+- HTML5  
+- CSS3  
 
-### Ferramentas & Práticas
+---
+
+## 🛠️ Ferramentas & Práticas
+
 - Git & GitHub  
+- Power BI  
 - Figma (prototipação)  
 - Metodologias Ágeis  
-- Documentação técnica  
+- Documentação Técnica  
 
 ---
 
 <p align="center">
-📍 Londrina, PR • 🌍 Inglês Profissional
+📍 Londrina, PR  
+🌍 Inglês Profissional  
 </p>
