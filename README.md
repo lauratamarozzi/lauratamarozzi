@@ -11,6 +11,41 @@ Busco oportunidades de estágio nas áreas de **Dados, BI ou Desenvolvimento**, 
 
 ---
 
+## 🚀 Tecnologias & Ferramentas
+
+### 💻 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+### 📊 Dados & BI
+<p>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🌐 Web
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🛠️ Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+---
+
 ## 📬 Contato & Redes
 
 <p align="left">
@@ -49,47 +84,6 @@ O projeto envolveu:
 🔗 O projeto está disponível neste GitHub.
 
 Participo ainda do **CyberLab (UEL)**, grupo de pesquisa em Segurança Cibernética, ampliando minha visão sobre proteção de sistemas e boas práticas de engenharia.
-
----
-
-## 📊 Análise de Dados & BI
-
-- Modelagem e manipulação de dados  
-- SQL (MySQL | PostgreSQL)  
-- Análise exploratória de dados  
-- Visualização de dados com **Power BI**  
-- Interpretação e geração de insights  
-
----
-
-## 💻 Desenvolvimento
-
-### Linguagens
-- Java  
-- Python  
-- JavaScript / TypeScript  
-- C  
-
-### Fundamentos
-- Programação Orientada a Objetos (POO)  
-- Estruturas de Dados  
-- Lógica de Programação  
-
-### Web
-- Angular  
-- Next.js  
-- HTML5  
-- CSS3  
-
----
-
-## 🛠️ Ferramentas & Práticas
-
-- Git & GitHub  
-- Power BI  
-- Figma (prototipação)  
-- Metodologias Ágeis  
-- Documentação Técnica  
 
 ---
 
