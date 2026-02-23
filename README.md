@@ -44,6 +44,7 @@ Busco oportunidades de estágio nas áreas de **Dados, BI ou Desenvolvimento**, 
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
 ---
 
 ## 📬 Contato & Redes
