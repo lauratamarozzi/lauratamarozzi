@@ -64,7 +64,7 @@ Maintenance of institutional web pages with focus on responsiveness and visual s
 Distributed ETL pipeline for large-scale climate data processing, built with Apache Spark and Docker Desktop orchestrating a cluster of 2 worker nodes. The architecture was designed to handle volume and ensure reproducibility across environments.
 - **Stack:** Python · Apache Spark · Docker Desktop · distributed cluster (1 master + 2 workers)
 - **Focus:** Scalable ingestion, transformation, and structured storage of climate datasets
-- [View Repository](https://github.com/lauratamarozzi)
+- [View Repository](https://github.com/lauratamarozzi/climate-spark-sd)
 
 ---
 
