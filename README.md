@@ -1,71 +1,83 @@
-# Olá, eu sou a Laura Tamarozzi 👋
+# Laura Tamarozzi
 
-🎓 **Ciência da Computação** pela UEL (Previsão: 2026) | 📍 Londrina, PR
-📊 **Analista de Dados & BI** | Pesquisadora em Bioinformática
-
-Sou uma profissional de dados apaixonada por transformar ecossistemas complexos em ativos estratégicos para a tomada de decisão. Atualmente atuo na intersecção entre tecnologia e negócios, construindo pipelines ETL, modelagem dimensional e dashboards focados em ROI e eficiência. 
-
-Tenho forte base analítica fundamentada na pesquisa acadêmica, utilizando lógica computacional e Machine Learning para resolver problemas de alto impacto.
+**Data Analyst · BI & Data Engineering**  
+Londrina, PR · [linkedin.com/in/lauratamarozzi](https://linkedin.com/in/lauratamarozzi) · [tamarozzilaura@gmail.com](mailto:tamarozzilaura@gmail.com)
 
 ---
 
-## 🚀 Stack Técnica
+Computer Science student at UEL (expected 2026), working as a Data Analyst in a consulting environment since early in my career. I build ETL pipelines, dimensional models, and Power BI dashboards end-to-end — from understanding the business requirement to delivering a layer that actually supports decision-making.
 
-### 📊 Engenharia de Dados & BI
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+Alongside that, I conduct scientific research in Bioinformatics applying Machine Learning to complex biological datasets, work that is evolving into my thesis. I care about data integrity, reproducible pipelines, and solutions that are built to last.
 
-### 💻 Linguagens & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-
-### 🛠️ Ferramentas & Versionamento
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+Medium-term focus: deepening expertise in Data Engineering and Data Science.
 
 ---
 
-## 💼 Experiência & Atuação Acadêmica
+## Technical Stack
 
-### 🏢 Analista de Dados @ b4data
-*Desenvolvimento de pipelines ETL e modelagem dimensional para clientes corporativos de múltiplos setores. Criação e otimização de dashboards estratégicos em Power BI utilizando DAX avançado.*
+**BI & Visualization**
 
-### 🔬 Pesquisadora - Iniciação Científica em Bioinformática @ UEL
-*Desenvolvimento de pipelines de análise computacional para caracterização de elementos de transposição do fungo Phakopsora pachyrhizi. Aplicação de Machine Learning (classificação e clusterização) utilizando Python, Pandas e Scikit-Learn sobre dados biológicos complexos.*
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🛡️ Pesquisadora - Segurança Cibernética @ CyberLab (UEL)
-*Membro de grupo de pesquisa focado na proteção de sistemas e aplicação de boas práticas de engenharia.*
+**Data Engineering**
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Languages & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+*Currently learning: Azure Data Factory · GCP BigQuery*
 
 ---
 
-## 📌 Projetos em Destaque
+## Experience
 
-### 📈 Análise de Correlação: Saneamento Básico e Casos de Dengue no Paraná
-Projeto analítico completo correlacionando dados públicos de infraestrutura e saúde.
-- **Fontes:** Integração e tratamento de dados do IBGE e SUS.
-- **Processo:** Coleta, limpeza, modelagem para análise exploratória e construção de dashboard interativo no Power BI.
-- **Resultado:** Extração de insights acionáveis sobre o impacto da falta de saneamento na proliferação da doença.
-- [🔗 Visualizar Projeto](#) *(http://github.com/lauratamarozzi/powerbi-ibge-dengue-dashboard)*
+**Data Analyst · b4data** — *Mar 2026 – Present*  
+Development of ETL pipelines and dimensional modeling for corporate clients across multiple sectors. Design and optimization of Power BI dashboards with advanced DAX for strategic, tactical, and operational decision support. I act as the bridge between business stakeholders and the data team, translating requirements into technical solutions and presenting results to executives.
+
+**Research Intern · Bioinformatics, UEL** — *Sep 2025 – Present*  
+Computational pipeline development for the characterization of transposable elements in the fungus *Phakopsora pachyrhizi*. Full cycle: data collection, treatment, analysis, and visualization, with emphasis on reproducibility. Applying classification and clustering techniques with Python, Pandas, and Scikit-Learn. This research is ongoing as my thesis (delivery: 2026).
+
+**Front-End Developer · UEL** — *Apr 2025 – Feb 2026*  
+Maintenance of institutional web pages with focus on responsiveness and visual standardization (WordPress, HTML/CSS).
 
 ---
 
-## 📬 Contato
+## Featured Projects
 
-<p align="left">
-  <a href="mailto:tamarozzilaura@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lauratamarozzi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### Climate Data Analysis — ETL with Apache Spark
+Distributed ETL pipeline for large-scale climate data processing, built with Apache Spark and Docker Desktop orchestrating a cluster of 2 worker nodes. The architecture was designed to handle volume and ensure reproducibility across environments.
+- **Stack:** Python · Apache Spark · Docker Desktop · distributed cluster (1 master + 2 workers)
+- **Focus:** Scalable ingestion, transformation, and structured storage of climate datasets
+- [View Repository](https://github.com/lauratamarozzi)
+
+---
+
+### Sanitation & Dengue Correlation — Paraná
+End-to-end analytical project correlating public infrastructure and health data across municipalities in Paraná.
+- **Sources:** IBGE and SUS public datasets
+- **Process:** Collection, cleaning, dimensional modeling, exploratory analysis, and interactive Power BI dashboard
+- **Output:** Actionable insights on the impact of sanitation deficits on dengue proliferation
+- [View Repository](https://github.com/lauratamarozzi/powerbi-ibge-dengue-dashboard)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauratamarozzi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamarozzilaura@gmail.com)
